@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // aboba
+    // aboba da
     printf("Hello, OP!\n");
     return 0;
 }
